@@ -1,12 +1,12 @@
 # Examples for using Nagini
 
 Nagini examples, showing some common use cases, such as proving post conditions for for-loops.
-See also the official Nagini examples.
+See also the [official Nagini examples](http://viper.ethz.ch/nagini-examples).
 
 
 # Setup tips
 
-Installation on Linux and Windows is covered in the official Nagini README.
+Installation on Linux and Windows is covered in the [official Nagini README](https://github.com/marcoeilers/nagini).
 For installation on Mac, follow the same steps as installation for Linux, except
 you need to set some env vars when using pip:
 ~~~
